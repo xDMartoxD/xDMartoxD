@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xDMartoxD
-- 👀 I’m interested in blockchain, AI, security, VR, AR, Cloud, ...everything
-- 🌱 I’m currently learning Blockchain
+- 👀 I’m interested in AI, security, VR, AR, Cloud, Three JS, IOS, Android, Flutter, React, React Native.
+- 🌱 I’m currently learning Everything
 - 💞️ I’m looking to collaborate on... dont know yet
 - 📫 How to reach me martinrestrepo2000@gmail.com
 
