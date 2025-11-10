@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xDMartoxD
 - 👀 I’m interested in Autonomous Systems and Cybersecurity.
-- 🌱 I’m currently working at (Amadeus)[https://amadeus.com/en]
+- 🌱 I’m currently working at [Amadeus](https://amadeus.com/en) as a Cloud Engineer
 - 📫 How to reach me martinrestrepo2000@gmail.com / https://martinrestrepo.com
 
 <!---
