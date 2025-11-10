@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @xDMartoxD
-- 👀 I’m interested in Autonomous Systems and Cyber Security.
-- 🌱 I’m currently learning Everything
-- 💞️ I’m looking to collaborate on... dont know yet
+- 👀 I’m interested in Autonomous Systems and Cybersecurity.
+- 🌱 I’m currently working at @Amadeus
 - 📫 How to reach me martinrestrepo2000@gmail.com / https://martinrestrepo.com
 
 <!---
